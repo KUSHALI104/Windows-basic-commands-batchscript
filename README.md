@@ -33,7 +33,8 @@ Create a directory named "MyLab" on the desktop.
 ## COMMAND AND OUTPUT
 mkdir %userprofile%\Desktop\MyLab
 
-![image](https://github.com/23004513/Windows-basic-commands-batchscript/assets/138973069/1feba45d-0779-48f3-9e31-f5a0350f0a66)
+![image](https://github.com/KUSHALI104/Windows-basic-commands-batchscript/assets/150231135/a5550631-3a50-4130-affb-49a31e1e71ed)
+
 
 
 Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
@@ -42,8 +43,10 @@ Change to the "MyLab" directory and create an empty text file named "MyFile.txt"
 ## COMMAND AND OUTPUT
 cd %userprofile%\Desktop\MyLab
 
-![image](https://github.com/23004513/Windows-basic-commands-batchscript/assets/138973069/2f186507-dd16-4ff6-ba9d-726aa06afb18)
-![image](https://github.com/23004513/Windows-basic-commands-batchscript/assets/138973069/7423c134-d5e4-4596-b6bc-ba9df42eb03d)
+![image](https://github.com/KUSHALI104/Windows-basic-commands-batchscript/assets/150231135/4294b8e0-0ce5-4bf1-9c1c-0b307f86aeaf)
+
+![image](https://github.com/KUSHALI104/Windows-basic-commands-batchscript/assets/150231135/f9922445-c18e-49d1-a57b-5cc418ace200)
+
 
 
 List the contents of the "MyLab" directory.
@@ -52,7 +55,8 @@ List the contents of the "MyLab" directory.
 ## COMMAND AND OUTPUT
 dir %userprofile%\Desktop\MyLab
 
-![image](https://github.com/23004513/Windows-basic-commands-batchscript/assets/138973069/7185c5be-7400-4896-b2a7-761467002990)
+
+![image](https://github.com/KUSHALI104/Windows-basic-commands-batchscript/assets/150231135/6854c2bc-3baa-435a-a842-044c44e2d0b9)
 
 
 Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
@@ -63,9 +67,11 @@ mkdir %userprofile%\Desktop\Backup
 
 copy MyFile.txt %userprofile%\Desktop\Backup
 
-![image](https://github.com/23004513/Windows-basic-commands-batchscript/assets/138973069/1f984e02-cf25-41c7-9534-4ff073959a2a)
 
-![image](https://github.com/23004513/Windows-basic-commands-batchscript/assets/138973069/1f6310cd-f10a-4e03-89ba-ff14f15a29cf)
+![image](https://github.com/KUSHALI104/Windows-basic-commands-batchscript/assets/150231135/fcdd49c2-5cf7-4ea8-a498-aadfab0bdd7f)
+
+
+![image](https://github.com/KUSHALI104/Windows-basic-commands-batchscript/assets/150231135/c98ae56b-53da-43f6-a881-ee76249092b2)
 
 
 
@@ -75,7 +81,8 @@ Move the "MyLab" directory to the "Documents" folder.
 ## COMMAND AND OUTPUT
 mv Myfile.txt %userprofile%\Documents
 
-![image](https://github.com/23004513/Windows-basic-commands-batchscript/assets/138973069/a74e26cf-e31f-4372-bc5e-80c890174e37)
+
+![image](https://github.com/KUSHALI104/Windows-basic-commands-batchscript/assets/150231135/88a1caa1-6d10-43c0-bd83-230aea710a1b)
 
 
 
@@ -101,7 +108,9 @@ echo Backup and deletion completed successfully!
 
 ## OUTPUT
 
-![image](https://github.com/23004513/Windows-basic-commands-batchscript/assets/138973069/a8e01095-f652-4407-896d-272deb28d452)
+
+![image](https://github.com/KUSHALI104/Windows-basic-commands-batchscript/assets/150231135/122fe64e-8b58-431c-8b3c-3a7f6661daf3)
+
 
 
 
